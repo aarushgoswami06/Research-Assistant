@@ -1,31 +1,19 @@
 # AI Research Assistant
 
-## Goal
+## Aim 
+A fully functional RAG based research assistant using llm models - as the first ai project
 
-Build an AI-powered research assistant that can:
+## Tech Stack (current)
+1.React
+2.FastAPI (Python)
 
-- Upload PDFs
-- Answer questions using RAG
-- Show citations
-- Store chat history
-- Authenticate users
-- Deploy online
-
-## Tech Stack
-
-Frontend
-- React
-- TypeScript
-- Tailwind CSS
-
-Backend
-- FastAPI
-
-AI
-- LangChain
-- Gemini/OpenAI
-- Sentence Transformers
-
-Database
-- PostgreSQL
-- ChromaDB
+## Project Structure
+/Research-Assistant
+    /backend
+        yet to add
+    /docs
+        yet to add
+    /frontend
+        yet to add
+    .gitignore
+    readme.md
