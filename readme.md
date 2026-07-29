@@ -9,7 +9,7 @@ A fully functional RAG based research assistant using llm models - as the first 
 
 ## Project Structure
 /Research-Assistant
-    /backend
+    backend
         yet to add
     /docs
         yet to add
